@@ -15,8 +15,7 @@ public class MainActivity extends Activity {
 		Log.i("abc","abc");
 		Log.i("xiugai","xiugai");
 		
-		added
-		abcdef
+		Log.i("abc","dddddd");
 	}
 
 	@Override
