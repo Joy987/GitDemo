@@ -16,6 +16,7 @@ public class MainActivity extends Activity {
 		Log.i("xiugai","xiugai");
 		
 		added
+		abcdef
 	}
 
 	@Override
